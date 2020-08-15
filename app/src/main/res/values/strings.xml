@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="p1">Player 1 Score:\u0020</string>
+    <string name="p2">Player 2 Score:\u0020</string>
+    <string name="p1Turn">Player 1\'s Turn (X)</string>
+    <string name="p2Turn">Player 2\'s Turn (O)</string>
+    <string name="resetButton">Reset Board</string>
+    <string name="muteButtonString">Mutes or Unmutes the Background Music.</string>
+    <string name="p2Won">Player 2 Won</string>
+    <string name="p1Won">Player 1 Won</string>
+    <string name="pDraw">Draw</string>
+    <!-- <string name="buttonTopLeft">Top Left</string>
+     <string name="buttonTopMiddle">Top Middle</string>
+     <string name="buttonTopRight">Top Right</string>
+     <string name="buttonMiddleLeft">Middle Left</string>
+     <string name="buttonMiddle">Middle</string>
+     <string name="buttonMiddleRight">Middle Right</string>
+     <string name="buttonBottomLeft">Bottom Left</string>
+     <string name="buttonBottomMiddle">Bottom Middle</string>
+     <string name="buttonBottomRight">Bottom Right</string> -->
+</resources>
